@@ -1,4 +1,4 @@
-# **kaggle-SMS_Spam_Detection**
+# **kaggle-Spam Filtering Competition**
 ![image](https://user-images.githubusercontent.com/98787306/200979989-a52368d2-6e03-44d4-bcdd-95581b587e01.png)
 https://www.kaggle.com/competitions/aivle-school-4th-miniproject/leaderboard
 
